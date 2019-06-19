@@ -8,6 +8,13 @@ router.get('/', function (req, res) {
 });
 
 router.get('/cart/:name', function (req, res) {
-    // Implementation here
+    var ledgerName = req.params.name;
+    var normalizedPath = require("path").join(__dirname, "../data/" + ledgerName + ".json");
+    fs.readFile(normalizedPath, 'utf8', (err, data) => {
+        if (err) throw err;
+        console.log(JSON.parse(data));
+    });
+
+    res.send('Ledger: ' + ledgerName)
 });
 
