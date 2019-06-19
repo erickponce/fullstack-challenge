@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1",
+        "date": "2019-10-01T05:00:00+00:00",
+        "category": "ELETRONIC",
+        "value": 1050.70,
+        "amount": 1,
+        "name": "Microwave",
+        "discount": {
+            "type": "SALE",
+            "id": 76510190788,
+            "value": 10,
+            "valid_until": "2019-10-02T00:00:00+00:00",
+            "description": "10% off!"
+        }
+    },
+    {
+        "id": "2",
+        "date": "2019-10-01T05:10:00+00:00",
+        "category": "GAME",
+        "value": 20.00,
+        "amount": 1,
+        "name": "Pacman",
+        "discount": null
+    },
+    {
+        "id": "1",
+        "date": "2019-10-01T05:00:00+00:00",
+        "category": "ELETRONIC",
+        "value": 1050.70,
+        "amount": 1,
+        "name": "Microwave",
+        "discount": {
+            "type": "SALE",
+            "id": 76510190788,
+            "value": 10,
+            "valid_until": "2019-10-02T00:00:00+00:00",
+            "description": "10% off!"
+        }
+    },
+    {
+        "id": "3",
+        "date": "2019-10-01T05:20:00+00:00",
+        "category": "CLOTHES",
+        "value": 45.00,
+        "amount": 1,
+        "name": "Shirt",
+        "discount": {
+            "type": "SALE",
+            "id": 76510190900,
+            "value": 30,
+            "valid_until": "2019-10-02T00:00:00+00:00",
+            "description": "30% off!"
+        }
+    }
+]

@@ -1,0 +1,12 @@
+{
+  "name": "fullstack-challenge",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js",
+    "start-debug": "node $NODE_DEBUG_OPTION app.js"
+  },
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
