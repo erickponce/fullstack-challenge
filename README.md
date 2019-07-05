@@ -10,9 +10,12 @@ Independentemente da API não confiável, sua tarefa é exibir os registros o ma
 
 ## Ferramentas
 * Você deve implementar o servidor em NodeJS, caso queira também pode ser implementado em Python.
-* Você é livre para usar qualquer tecnologia de frontend para (SPA) que você acha que será mais adequada para a tarefa (Angular 1.x é um Plus)
+* Você é livre para usar qualquer tecnologia de frontend que você acha que será mais adequada para a tarefa (Angular é um Plus)
 * Caso implemente o servidor em NodeJS, você deve usar o JavaScript moderno (ES6) e as melhores práticas. (TypeScript é um plus)
 * Caso implemente o servidor em Python o framework Django é um plus.
+
+# WIREFRAME para referencia
+![alt text](https://raw.githubusercontent.com/erickponce/fullstack-challenge/master/wireframe.png)
 
 ## Requisitos
 
@@ -93,4 +96,7 @@ Você não é obrigado a escrever código para abordar esses pontos, mas deve co
 * Seja criativo!
 
 ## Prazo
-O PRAZO MÁXIMO para entrega é de 2 dias, a partir da data de recebimento destas instruções.
+O PRAZO MÁXIMO para entrega é de 4 dias, a partir da data de recebimento destas instruções.
+
+## Dúvidas
+Caso tenha alguma dúvida entre em contato pelo e-mail: erickleao.dsn.cir@alterdata.com.br
