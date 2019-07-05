@@ -1,5 +1,5 @@
 # Desafio Técnico - Fullstack
-Comprometimento de tempo estimado: 1-2 dias. A tarefa não é cronometrada e você pode trabalhar no seu próprio ritmo.
+Comprometimento de tempo estimado: 1-4 dias. A tarefa não é cronometrada e você pode trabalhar no seu próprio ritmo.
 
 ## Task
 Sua tarefa é desenvolver uma interface do usuário para que os usuários visualizem o carrinho de compras, incluindo os itens com seus descontos (caso existam) e os totais.
